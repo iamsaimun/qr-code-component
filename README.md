@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-qr-code-component-8OysU3WfVi)
-- Live Site URL: [Add live site URL here](https://qr-code-component-tau-mauve.vercel.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-qr-code-component-8OysU3WfVi)
+- Live Site URL: [Live Site](https://qr-code-component-tau-mauve.vercel.app/)
 
 ## My process
 
