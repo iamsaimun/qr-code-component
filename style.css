@@ -15,48 +15,54 @@
   }
   p{
     font-family: "Outfit", sans-serif;
-    font-size: 15px;
+    font-size: 0.938rem;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
     line-height: 140%;
-    letter-spacing: 0.2px;
+    letter-spacing: 0.013rem;
     color: var(--primary-font-color);
     margin: auto;
   }
   img {
-    width: 320px;
+    width: 20rem;
     height: auto;
   }
   .heading{
     font-family: "Outfit", sans-serif;
-    font-size: 22px;
+    font-size: 1.375rem;
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
     line-height: 120%;
-    letter-spacing: 0px;
+    letter-spacing: 0rem;
     color: var(--heading-color) ;
     margin: auto;
   }
   .container{
     display: flex; 
     flex-direction: column; 
-    gap: 24px;
-    max-width: 320px;
-    height: 499px;
-    border-radius: 20px;
-    padding: 16px;
+    gap: 1.5rem;
+    max-width: 20rem;
+    height: 31.188rem;
+    border-radius: 1.25rem;
+    padding: 1rem;
     text-align: center;
     margin: auto;
-    padding:16px 16px 40px 16px;
+    padding:1rem 1rem 2.5rem 1rem;
     background-color: var(--container-bg-color);
   }
   .content-section{
-    padding:0px 16px; 
+    padding:0px 1rem; 
     display: flex; 
     flex-direction: column; 
-    gap: 16px;
+    gap: 1rem;
   }
-  .attribution { margin: auto; font-size: 11px; text-align: center; }
-  .attribution a { color: var(--attribution-color); }
+  .attribution { 
+    margin: auto; 
+    font-size: 0.688rem; 
+    text-align: center; 
+  }
+  .attribution a { 
+    color: var(--attribution-color); 
+  }
